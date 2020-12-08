@@ -56,6 +56,10 @@
     top: 25%;
 }
 
+.hide {
+    display: none;
+}
+
 #selector_div button {
     font-size: 20pt;
     color: rgb(255, 255, 255);
